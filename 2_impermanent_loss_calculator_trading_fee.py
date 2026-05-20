@@ -1,8 +1,3 @@
-# Author: CryptoLead at https://www.cryptolead.xyz
-# Date: 2023-04-17
-# Message: Hey there fellow coders! If you found my code helpful and want to show your support, consider buying me a coffee or two. Your donations help me keep improving the code and creating more awesome stuff for the community. Thanks for your support!
-# Donation: cryptolead.eth or 0xa2c35DA418f52ed89Ba18d51DbA314EB1dc396d0
-
 # Objectives:
 # This .py is based on 1_impermanent_loss_calculator.py but incorporating % from total pool and trading fee
 
